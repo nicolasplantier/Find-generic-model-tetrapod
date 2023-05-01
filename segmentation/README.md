@@ -8,4 +8,6 @@ This program implements the watershed algorithm.
 
 ## Output 
 
-- tetrapods_mask_all : for each tetrapod = an image where ones correspond to the pixels where the tetrapod is and zeros where it is not. 
+- tetrapods_mask_all (parent directory) : for each tetrapod = an image where ones correspond to the pixels where the tetrapod is and zeros where it is not. 
+- gradient : 
+- markers : 
