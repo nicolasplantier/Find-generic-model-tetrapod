@@ -1,11 +1,4 @@
 # Generation of a Generic tetrapod model from photogrammetric point clouds of breakwaters
-This repository aims to find the generic tetrapod model in a high resolution cloud point. 
+This code implements the algorithm described in 
 
-In order, go into each file in this order, and execute the name_of_the_folder.py file. 
-1/ Planity calculator 
-2/ Edges calculator 
-3/ Segmentation
-4/ Create Models
-5/ Find axes
-6/ Find axes cpp 
-7/ Find points axes 
+> N. Plantier, A. Li, S. Travadel, "Generation of a Generic tetrapod model from photogrammetric point clouds of breakwaters", 2023
