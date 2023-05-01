@@ -20,6 +20,9 @@ Main program that implements the watershed algorithm described in the paper.
 - `create_models.py` in `create_models`  
 Main program that creates the different instances of the generic model from the output of the watershed algorithm.
 
+- `find_axes.py` in `find_axes`  
+Main program that creates the 3D probability map in each tetrapod where high probabilities represent points that are likely to belong to the axes of the feet of a tetrapod. 
+
 
 ## Installation 
 The source code is written in Python and in C++ and thus requires a C++ compiler. 
