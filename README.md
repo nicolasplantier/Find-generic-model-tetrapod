@@ -15,3 +15,4 @@ Main program that implements the "flatness_measure" algorithm described in the p
 Main program that prepares the input of the watershed algorithm that will segment the 3D point cloud. It computes the edges of the 2D projection of the flatness measure. 
 
 ## Installation 
+The source code is written in Python and in C++ and thus requires a C++ compiler. 
