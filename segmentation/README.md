@@ -1,6 +1,7 @@
 # Watershed Algorithm
 
 This program implements the watershed algorithm. 
+Execute the python file `segmentation.py` to get the results.
 
 ## Input 
 
