@@ -5,5 +5,7 @@ Please, cite this article when using the code.
 
 ## Source Files
 
+Please, execute the algorithms in this order. 
+
 - `planity_calculator.py` in `planity_calculator`
-Just to implemant
+Main program that implements "flatness_measure" described in the paper. 
