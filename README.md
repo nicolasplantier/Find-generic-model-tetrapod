@@ -18,7 +18,7 @@ Main program that prepares the input of the watershed algorithm that will segmen
 Main program that implements the watershed algorithm described in the paper.  
 
 - `create_models.py` in `create_models`  
-Main program that create the different instances of the generic model from the output of the watershed algorithm.
+Main program that creates the different instances of the generic model from the output of the watershed algorithm.
 
 
 ## Installation 
