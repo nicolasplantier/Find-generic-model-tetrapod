@@ -7,5 +7,6 @@ Please, cite this article when using the code.
 
 Please, execute the algorithms in this order. 
 
-- `planity_calculator.py` in `planity_calculator` \n
+- `planity_calculator.py` in `planity_calculator` 
+ 
 Main program that implements "flatness_measure" described in the paper. 
