@@ -14,5 +14,9 @@ Main program that implements the "flatness_measure" algorithm described in the p
 - `edges_calculator.py` in `edges_calculator`   
 Main program that prepares the input of the watershed algorithm that will segment the 3D point cloud. It computes the edges of the 2D projection of the flatness measure. 
 
+- `segmentation.py` in `segmentation`   
+Main program that implements the watershed algorithm described in the paper.  
+
+
 ## Installation 
 The source code is written in Python and in C++ and thus requires a C++ compiler. 
