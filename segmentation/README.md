@@ -1,5 +1,5 @@
 # Watershed Algorithm
 
-This file to implement the watershed algorithm. 
+This program implements the watershed algorithm. 
 
 ## Input 
