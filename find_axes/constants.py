@@ -1,0 +1,1 @@
+M = 100  #This is the final size of the cube for the echography : it needs to do not be too high otherwise the echography measure will be too low and not too low otherwise it will not be precise enough.
