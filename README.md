@@ -17,6 +17,9 @@ Main program that prepares the input of the watershed algorithm that will segmen
 - `segmentation.py` in `segmentation`   
 Main program that implements the watershed algorithm described in the paper.  
 
+- `create_models.py` in `create_models`  
+Main program that create the different instances of the generic model from the output of the watershed algorithm.
+
 
 ## Installation 
 The source code is written in Python and in C++ and thus requires a C++ compiler. 
