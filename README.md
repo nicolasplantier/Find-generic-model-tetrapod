@@ -29,5 +29,8 @@ Main program that finds out the points on that are likely to belong to the axes 
 - `find_axes_cpp.py` in `find_axes_cpp`  
 Main program that implements the Iterative Hough Transform for straight lines detection algorithm.
 
+- `draw_main_axes.py` in `draw_main_axes`  
+Main program that draws the axes found inside the different tetrapods.
+
 ## Installation 
 The source code is written in Python and in C++ and thus requires a C++ compiler. 
