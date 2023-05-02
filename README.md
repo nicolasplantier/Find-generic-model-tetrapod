@@ -35,6 +35,9 @@ Main program that draws the axes found inside the different tetrapods.
 - `clean_tetrapods.py` in `clean_tetrapods`  
 Main program that finds the feet inside the tetrapods and removes the outliers. 
 
+- `create_generic_model.py` in `create_generic_model`  
+Main program that finds the generic model of tetrapods. 
+
 
 ## Installation 
 The source code is written in Python and in C++ and thus requires a C++ compiler. 
