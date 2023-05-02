@@ -26,5 +26,8 @@ Main program that creates the 3D probability map in each tetrapod where high pro
 - `find_points_axes.py` in `find_points_axes`  
 Main program that finds out the points on that are likely to belong to the axes of a tetrapod.
 
+- `find_axes_cpp.py` in `find_axes_cpp`  
+Main program that implements the Iterative Hough Transform for straight lines detection algorithm.
+
 ## Installation 
 The source code is written in Python and in C++ and thus requires a C++ compiler. 
