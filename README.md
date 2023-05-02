@@ -32,5 +32,9 @@ Main program that implements the Iterative Hough Transform for straight lines de
 - `draw_main_axes.py` in `draw_main_axes`  
 Main program that draws the axes found inside the different tetrapods.
 
+- `clean_tetrapods.py` in `clean_tetrapods`  
+Main program that finds the feet inside the tetrapods and removes the outliers. 
+
+
 ## Installation 
 The source code is written in Python and in C++ and thus requires a C++ compiler. 
