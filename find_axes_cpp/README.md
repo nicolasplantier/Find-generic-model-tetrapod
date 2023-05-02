@@ -4,8 +4,8 @@ This program aims to find the axes of the tetrapods using the points detected be
 
 ## Input 
 
-- point_cloud_tetrapod_model_1_0.dat : points that are likely to belong to the axes 
+- `point_cloud_tetrapod_model_1_0.dat` : points that are likely to belong to the axes 
 
 ## Output 
 
-- axes_model_.dat : axes found inside the tetrapod (direction and center of mass) 
+- `axes_model_.dat` : axes found inside the tetrapod (direction and center of mass) 
