@@ -1,6 +1,6 @@
 # Find feet and remove outliers algorithm
 
-This algorithm finds the feet inside the tetrapods and remove the outliers. 
+This algorithm finds the feet inside the tetrapods and removes the outliers. 
 
 ## Input 
 - `main_axes` : the main axes found inside the different tetrapods
