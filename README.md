@@ -4,6 +4,8 @@ This code implements the algorithm described in :
 
 Please, cite this article when using the code. 
 
+The article can be found in the "final_report.pdf" file in the current repository.
+
 ## Source Files
 
 Please, execute the algorithms in this order. 
