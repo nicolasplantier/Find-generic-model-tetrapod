@@ -41,3 +41,7 @@ Main program that finds the generic model of tetrapods.
 
 ## Installation 
 The source code is written in Python and in C++ and thus requires a C++ compiler. 
+
+## License
+
+This code is provided under a MIT license. See the file LICENSE for details.
