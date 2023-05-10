@@ -13,5 +13,5 @@ For privacy reasons, it was not possible to give acess to the initial 3D point c
 Can be opened in CloudCompare. Here is an overview of the final result. 
 
 <p align="center">
-    <img src="flatness_measure.png" alt="screenshot" width="500px">. 
+    <img src="flatness_measure.png" alt="screenshot">. 
 </p> 
