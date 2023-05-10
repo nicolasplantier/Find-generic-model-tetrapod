@@ -1,6 +1,7 @@
 # Create density model
 
-This programme creates the edges of the image of the tetrapods in order to prepare the data for the watershed algorithm. 
+This algorithm concatenates the previous csv files to give the final model with the probability map. 
+
 
 ## Input 
 
@@ -8,7 +9,7 @@ This programme creates the edges of the image of the tetrapods in order to prepa
 
 ## Output 
 
-- `image_edges_.png`: 2D projection of the flatness_measure.  
+- `density_model.las`: model with probability map. 
 Here is an example of results that can be visualized. 
 
 <p align="center">
