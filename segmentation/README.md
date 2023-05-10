@@ -14,7 +14,7 @@ Execute the python file `segmentation.py` to get the results.
 - `labels` : all the labels found before applying the watershed algorithm
 - `markers` : all the instances found
 - `ajaccio_patches_classified_colors` : the corresponding .las files where a scalar field was added to identify each tetrapod identified.  
-Here is an overview of the final results on a single patch. 
+Here is an overview of the final result on a single patch. 
 
 <p align="center">
     <img src="image_classified.png" alt="screenshot">. 
