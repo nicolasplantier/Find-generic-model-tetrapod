@@ -44,8 +44,8 @@ Main program that finds the generic model of tetrapods.
 
 This algorithm allows you to visualize the results at each step. To do so, you can open the files inside `results` in each folder. 
 
-- .las files can be opened via CloudCompare 
-- .dat files need to be converted into .pts files before opening in CloudCompare 
+- .las files can be opened with CloudCompare 
+- .dat files need to be converted into .pts files before opening with CloudCompare 
 - It is not necessary to open .csv files 
 
 Here is an image of the final generic model obtained from a total of 55 instances of tetrapods : 
