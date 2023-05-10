@@ -57,7 +57,7 @@ The source code is written in Python and in C++ and thus requires a C++ compiler
 
 Install the necessary requirements thanks to the `requirements.txt` file 
 
-		git commit -am "By typing this command I am saving a collection of saved files."
+		pip install -r requirements.txt
     
 ## License
 
