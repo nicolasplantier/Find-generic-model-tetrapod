@@ -7,8 +7,8 @@ This algorithm finds out the points on that are likely to belong to the axes of 
 
 ## Output 
 - `point_cloud_{filename[:-4]}.dat"` : list of coordinates of the points that belong to the axes.  
-Here is an overview of the points found to detect the axes in a random tetrapod.
+Here is an overview of the points found to detect the axes in two random tetrapods.
 
 <p align="center">
-    <img src="point.png" alt="screenshot">. 
+    <img src="points.png" alt="screenshot">. 
 </p> 
