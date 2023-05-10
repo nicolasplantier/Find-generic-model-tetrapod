@@ -48,6 +48,7 @@ This algorithm allows you to visualize the results at each step. To do so, you c
 - .dat files need to be converted into .pts files before opening with CloudCompare 
 - It is not necessary to open .csv files 
 
+The final model can be found directly inside the current repository in the `final_model.las` file.  
 Here is an image of the final generic model obtained from a total of 55 instances of tetrapods : 
 
 ![Screenshot](final_model.png)
