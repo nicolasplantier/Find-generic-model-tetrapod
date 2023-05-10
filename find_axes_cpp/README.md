@@ -8,4 +8,9 @@ This program aims to find the axes of the tetrapods using the points detected be
 
 ## Output 
 
-- `axes_model_.dat` : axes found inside the tetrapod (direction and center of mass) 
+- `axes_model_.dat` : axes found inside the tetrapod (direction and center of mass).  
+Here is an overview of the axes found inside a random tetrapod.  
+
+<p align="center">
+    <img src="axes.png" alt="screenshot">. 
+</p> 
