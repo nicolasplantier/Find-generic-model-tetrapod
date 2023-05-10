@@ -50,6 +50,8 @@ The main advantage of this algorithm is that you will be able to visualize the r
 
 Here is an image of the final generic model obtained from a total of 55 instances of tetrapods : 
 
+![Screenshot](final_model.png)
+
 ## Installation 
 The source code is written in Python and in C++ and thus requires a C++ compiler. 
 
