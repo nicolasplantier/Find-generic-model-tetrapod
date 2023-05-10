@@ -13,7 +13,7 @@ Execute the python file `segmentation.py` to get the results.
 - `gradients` : proprocessing of the input image 
 - `labels` : all the labels found before applying the watershed algorithm
 - `markers` : all the instances found
-- `ajaccio_patches_classified_colors` : the correspodings .las files where a scalar field was added to identify each tetrapod identified.  
+- `ajaccio_patches_classified_colors` : the corresponding .las files where a scalar field was added to identify each tetrapod identified.  
 Here is an overview of the final results on a single patch. 
 
 <p align="center">
