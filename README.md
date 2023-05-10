@@ -40,6 +40,15 @@ Main program that finds the feet inside the tetrapods and removes the outliers.
 - `create_generic_model.py` in `create_generic_model`  
 Main program that finds the generic model of tetrapods. 
 
+## Results
+
+The main advantage of this algorithm is that you will be able to visualize the results at each step. To do so, you can open the files inside `results` in each folder. 
+
+- .las files can be opened via CloudCompare 
+- .dat files need to be converted into .pts files before opening in CloudCompare 
+- It is not necessary to open .csv files 
+
+Here is an image of the final generic model obtained from a total of 55 instances of tetrapods : 
 
 ## Installation 
 The source code is written in Python and in C++ and thus requires a C++ compiler. 
