@@ -5,7 +5,7 @@ This algorithm concatenates the previous csv files to give the final model with 
 
 ## Input 
 
-- `3d_patch_classified_test_.las` : patches of tetrapods with flatness_measure.  
+- `new_fit_.csv` : the overlay of multiple tetrapods. 
 
 ## Output 
 
