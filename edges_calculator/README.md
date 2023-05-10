@@ -9,6 +9,7 @@ This programme creates the edges of the image of the tetrapods in order to prepa
 ## Output 
 
 - `image_edges_.png`: 2D projection of the flatness_measure.  
+Here is an example of results that can be visualized. 
 
 <p align="center">
     <img src="image_edges_1.png" alt="screenshot">. 
