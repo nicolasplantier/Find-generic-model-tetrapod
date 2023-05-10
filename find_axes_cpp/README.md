@@ -12,5 +12,5 @@ This program aims to find the axes of the tetrapods using the points detected be
 Here is an overview of the axes found inside a random tetrapod.  
 
 <p align="center">
-    <img src="axes.png" alt="screenshot" width=300px>. 
+    <img src="axes.png" alt="screenshot" width=500px>. 
 </p> 
