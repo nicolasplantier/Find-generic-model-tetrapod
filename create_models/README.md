@@ -7,4 +7,9 @@ This algorithm takes the results of the watershed algorithm to create the differ
 
 ## Output 
 
-- `tetrapod_model_{patch_number}_{i}.las` in `results`: .las file for every instance of tetrapod.
+- `tetrapod_model_{patch_number}_{i}.las` in `results`: .las file for every instance of tetrapod.  
+Can be opened with CloudCompare. Here is an overview of the result (4 instances) 
+
+<p align="center">
+    <img src="models.png" alt="screenshot">. 
+</p> 
