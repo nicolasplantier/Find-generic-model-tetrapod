@@ -12,5 +12,5 @@ This algorithm find a 3D probability map : high probabilities meaning that a poi
 - `echographie_tetrapods_all` : images corresponding to the 3D probability map over a few heights
 - `echographie_tetrapods_all_csv` : same images but over every heights, and stored into a .csv file
 
- <video src="find_axes.mp4"  width=180/>
+https://github.com/nicolasplantier/Find-generic-model-tetrapod/assets/91543973/e23945ac-e024-49f4-a71b-2ae30a5cb188
 
