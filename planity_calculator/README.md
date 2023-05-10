@@ -14,4 +14,4 @@ Can be opened in CloudCompare. Here is an overview of the final result.
 
 <p align="center">
     <img src="flatness_measure.png" alt="screenshot" width="500px">
-</p>
+</p> 
