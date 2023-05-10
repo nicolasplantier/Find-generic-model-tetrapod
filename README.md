@@ -55,6 +55,10 @@ Here is an image of the final generic model obtained from a total of 55 instance
 ## Installation 
 The source code is written in Python and in C++ and thus requires a C++ compiler. 
 
+Install the necessary requirements thanks to the `requirements.txt` file 
+
+		git commit -am "By typing this command I am saving a collection of saved files."
+    
 ## License
 
 This code is provided under a MIT license. See the file LICENSE for details.
