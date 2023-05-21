@@ -42,7 +42,7 @@ Main program that finds the generic model of tetrapods.
 
 ## Results
 
-This algorithm allows you to visualize the results at each step. To do so, you can open the files inside `results` in each folder. 
+This algorithm allows you to visualize the results at each step. To do so, after executing the correponding .py file inside a folder, you can open the files inside `results` in the folder. 
 
 - .las files can be opened with CloudCompare 
 - .dat files need to be converted into .pts files before opening with CloudCompare 
